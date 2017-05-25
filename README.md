@@ -3,7 +3,7 @@ Compilation of my CS223 coding work.
 
 Each branch contains a seperate programming assignment.
 
-Each assignment was Developed on a linux system using linux commands and development environemts.
+Each assignment was Developed on a linux system using linux commands and development environments.
 
 All work was done using C++ and Makefiles.
 
