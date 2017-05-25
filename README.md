@@ -1,4 +1,4 @@
 # CS223
-Compilation of my Sophomore year coding work.
+Compilation of my CS223 coding work.
 
 Each branch contains a seperate programming assignment.
